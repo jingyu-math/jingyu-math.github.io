@@ -23,42 +23,34 @@ My main areas of research are combinatorics and descriptive set theory.  Some pa
 
 ## Invited Talks
 
-(upcoming) Delta 22 Workshop on Logic, Fudan University, Shanghai, China, Nov 9, 2024 
+* (upcoming) Delta 22 Workshop on Logic, Fudan University, Shanghai, China, Nov 9, 2024 
 
-(upcoming) Chinese Annual Conference on Mathematical Logic (CACML), Peking University, Beijing, China, Oct 26, 2024
+* (upcoming) Chinese Annual Conference on Mathematical Logic (CACML), Peking University, Beijing, China, Oct 26, 2024
 
-NUS Combinatorics & Graph Theory Seminar, online, Oct 2, 2024
+* NUS Combinatorics & Graph Theory Seminar, online, Oct 2, 2024
 
-Combinatorics Seminar: Epsilon Series, Georgia Institute of Technology, Atlanta, GA, USA, Mar 8, 2024
+* Combinatorics Seminar: Epsilon Series, Georgia Institute of Technology, Atlanta, GA, USA, Mar 8, 2024
 
-Joint Mathematical Meeting, ASL Special Session on Descriptive Methods in Dynamics, Combinatorics, and Large-scale Geometry, San Francisco, CA, USA, Jan 4, 2024
+* Joint Mathematical Meeting, ASL Special Session on Descriptive Methods in Dynamics, Combinatorics, and Large-scale Geometry, San Francisco, CA, USA, Jan 4, 2024
 
-McGill Descriptive Dynamics and Combinatorics Seminar, online, Dec 5, 2023
+* McGill Descriptive Dynamics and Combinatorics Seminar, online, Dec 5, 2023
 
-7th Mini-conference of Atlanta Lecture Series in Combinatorics and Graph Theory, Atlanta, GA, USA, Nov 4, 2023
+* 7th Mini-conference of Atlanta Lecture Series in Combinatorics and Graph Theory, Atlanta, GA, USA, Nov 4, 2023
 
-CMU Logic Seminar, Carnegie Mellon University, Pittsburgh, PA, USA, Oct 10, 2023
+* CMU Logic Seminar, Carnegie Mellon University, Pittsburgh, PA, USA, Oct 10, 2023
 
-John Hopcroft Center Lecture Series, Shanghai Jiaotong University, Shanghai, China, Aug 28, 2023
+* John Hopcroft Center Lecture Series, Shanghai Jiaotong University, Shanghai, China, Aug 28, 2023
 
-Shanghai Center for Mathematical Sciences (SCMS) Combinatorics Student Seminar, online, June 9, 2023
+* Shanghai Center for Mathematical Sciences (SCMS) Combinatorics Student Seminar, online, June 9, 2023
 
-UCLA Logic Colloquium, University of California, Los Angeles, CA, USA, May 10, 2023
+* UCLA Logic Colloquium, University of California, Los Angeles, CA, USA, May 10, 2023
 
-Discrete Math Seminar, Georgia State University, Atlanta, GA, USA, Apr 12, 2023
+* Discrete Math Seminar, Georgia State University, Atlanta, GA, USA, Apr 12, 2023
 
-AMS Spring Southeastern Sectional Meeting Special Session on Logic, Combinatorics, and Their Interactions, Georgia Institute of Technology, Atlanta, GA, USA, Mar 19, 2023
+* AMS Spring Southeastern Sectional Meeting Special Session on Logic, Combinatorics, and Their Interactions, Georgia Institute of Technology, Atlanta, GA, USA, Mar 19, 2023
 
 ## Contact Me
 
 * Email: [jyu@fudan.edu.cn](mailto:jyu@fudan.edu.cn)
   
-> Office: Room 339, Shanghai Center for Mathematical Sciences,
->
-> Fudan University,
->
-> 2005 Songhu Road,
->
-> Shanghai
->
-> China
+* Office: Room 339, Shanghai Center for Mathematical Sciences, Fudan University, 2005 Songhu Road, Shanghai, China
