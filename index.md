@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-Hi! I am currently a postdoctoral researcher at [Shanghai Center for Mathematical Sciences](https://scms.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/). I am mentored by [Hehui Wu](https://scholar.google.com/citations?user=vGY9WiEAAAAJ&hl=en).
+Hi! I am currently a postdoctoral researcher at [Shanghai Center for Mathematical Sciences](https://scms.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/). <!--I am mentored by [Hehui Wu](https://scholar.google.com/citations?user=vGY9WiEAAAAJ&hl=en).-->
 
 Before returning to my alma mater Fudan, I received my PhD degree in [Algorithms, Combinatorics, and Optimization (ACO)](https://aco.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/), where I was fortunate to be advised by [Anton Bernshteyn](https://bahtoh-math.github.io/). Here's my [Math Genealogy entry](https://genealogy.math.ndsu.nodak.edu/id.php?id=321109).
 
