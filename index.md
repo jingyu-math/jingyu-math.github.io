@@ -10,6 +10,12 @@ Before returning to my alma mater Fudan, I received my PhD degree in [Algorithms
 
 My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
 
+## Contact Me
+
+* Email: [jyu@fudan.edu.cn](mailto:jyu@fudan.edu.cn)
+  
+* Office: Room 339, Shanghai Center for Mathematical Sciences, Fudan University, 2005 Songhu Road, Shanghai, China
+
 ## Research Interest
 
 My main areas of research are combinatorics and descriptive set theory.  Some particular topics I am interested in : probabilistic methods in descriptive combinatorics, Markov Chain Monte Carlo, distributed algorithms. 
@@ -48,9 +54,5 @@ My main areas of research are combinatorics and descriptive set theory.  Some pa
 * Discrete Math Seminar, Georgia State University, Atlanta, GA, USA, Apr 12, 2023
 
 * AMS Spring Southeastern Sectional Meeting Special Session on Logic, Combinatorics, and Their Interactions, Georgia Institute of Technology, Atlanta, GA, USA, Mar 19, 2023
-
-## Contact Me
-
-* Email: [jyu@fudan.edu.cn](mailto:jyu@fudan.edu.cn)
   
-* Office: Room 339, Shanghai Center for Mathematical Sciences, Fudan University, 2005 Songhu Road, Shanghai, China
+---
