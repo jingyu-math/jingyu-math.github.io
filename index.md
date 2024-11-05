@@ -20,7 +20,7 @@ My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
 
 My main areas of research are combinatorics and descriptive set theory.  Some particular topics I am interested in : probabilistic methods in descriptive combinatorics, Markov Chain Monte Carlo, distributed algorithms. 
 
-## Publications
+## Papers and Preprints
 
 1. With Anton Bernshteyn. [Embedding Borel graphs into grids of asymptotically optimal dimension](https://arxiv.org/abs/2407.19785). Preprint (submitted). 
 2. With George Brooks, Fadekemi Osaye, Anna Schenfisch and Zhiyu Wang. [Outerplanar graphs with positive Lin-Lu-Yau curvature](https://arxiv.org/abs/2403.04110). Preprint (submitted).
@@ -31,7 +31,7 @@ My main areas of research are combinatorics and descriptive set theory.  Some pa
 
 * (upcoming) Delta 22 Workshop on Logic, Fudan University, Shanghai, China, Nov 9, 2024 
 
-* (upcoming) Chinese Annual Conference on Mathematical Logic (CACML), Peking University, Beijing, China, Oct 26, 2024
+* Chinese Annual Conference on Mathematical Logic (CACML), Peking University, Beijing, China, Oct 26, 2024
 
 * NUS Combinatorics & Graph Theory Seminar, online, Oct 2, 2024
 
