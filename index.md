@@ -22,7 +22,7 @@ My main areas of research are combinatorics and descriptive set theory.  Some pa
 
 ## Papers and Preprints
 
-1. With Xingyu Zhu. [A combinatorial revisit of asymptotic-type dimension bounds](https://arxiv.org/pdf/2411.16660). Preprint (submitted).
+1. With Xingyu Zhu. [A combinatorial revisit of asymptotic-type dimension bounds](https://arxiv.org/abs/2411.16660). Preprint (submitted).
 2. With Anton Bernshteyn. [Embedding Borel graphs into grids of asymptotically optimal dimension](https://arxiv.org/abs/2407.19785). Preprint (submitted). 
 3. With George Brooks, Fadekemi Osaye, Anna Schenfisch and Zhiyu Wang. [Outerplanar graphs with positive Lin-Lu-Yau curvature](https://arxiv.org/abs/2403.04110). Preprint (submitted).
 4. With Anton Bernshteyn. [Large-scale geometry of Borel graphs of polynomial growth](https://arxiv.org/abs/2302.04727). Preprint (submitted).
