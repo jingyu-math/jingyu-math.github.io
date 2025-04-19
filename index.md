@@ -21,7 +21,7 @@ My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
 My main areas of research are combinatorics and descriptive set theory.  Some particular topics I am interested in : probabilistic methods in descriptive combinatorics, Markov Chain Monte Carlo, distributed algorithms. 
 
 ## Papers and Preprints
-1. With Jie-Xiang Zhu. Counting degree-constrained orientations. Preprint (submitted). 
+1. With Jie-Xiang Zhu. [Counting degree-constrained orientations](https://arxiv.org/abs/2504.12693). Preprint (submitted). 
 2. With Anton Bernshteyn. [Borel Local Lemma: arbitrary random variables and limited exponential growth](http://arxiv.org/abs/2412.11571). Preprint (submitted).
 3. With Xingyu Zhu. [Revisiting asymptotic-type dimension bounds through combinatorial approaches](https://arxiv.org/abs/2411.16660). Preprint (submitted).
 4. With Anton Bernshteyn. [Embedding Borel graphs into grids of asymptotically optimal dimension](https://arxiv.org/abs/2407.19785). Preprint (submitted). 
