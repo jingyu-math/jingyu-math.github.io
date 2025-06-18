@@ -31,7 +31,7 @@ My main areas of research are combinatorics and descriptive set theory.  Some pa
 
 ## Invited Talks
 
-* Tianyuan workshop on Computability Theory and Descriptive Set Theory, Tianyuan Mathematics Research Center, Kunming, China, Jun 19, 2025
+* Tianyuan Workshop on Computability Theory and Descriptive Set Theory, Tianyuan Mathematics Research Center, Kunming, China, Jun 19, 2025
 
 * Delta 22 Workshop on Logic, Fudan University, Shanghai, China, Nov 9, 2024 
 
