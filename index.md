@@ -32,6 +32,8 @@ My main areas of research are combinatorics and descriptive set theory.  Some pa
 
 ## Invited Talks
 
+* Young Scholars Conference on Descriptive Set Theory, Sichuan University, Chengdu, China, Oct 25, 2025
+
 * Borel Combinatorics Seminar, Institute of Mathematics of the Eötvös Loránd University, Budapest, Hungary, Sep 10, 2025
 
 * Tianyuan Workshop on Computability Theory and Descriptive Set Theory, Tianyuan Mathematics Research Center, Kunming, China, Jun 19, 2025
