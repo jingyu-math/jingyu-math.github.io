@@ -21,14 +21,14 @@ My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
 My main areas of research are combinatorics and descriptive set theory. 
 
 ## Papers and Preprints
-1. With Yaobin Chen, Jiaxi Nie and Wentao Zhang. [Maximum in-general-position set in a random subset of $F_q^d$](https://arxiv.org/pdf/2509.06403). Preprint (submitted)
-2. With Anton Bernshteyn. [Borel Local Lemma: arbitrary random variables and limited exponential growth](http://arxiv.org/abs/2412.11571). Preprint (submitted)
-3. With Xingyu Zhu. [Revisiting asymptotic-type dimension bounds through combinatorial approaches](https://arxiv.org/abs/2411.16660). Preprint (submitted)
-4. With Anton Bernshteyn. [Embedding Borel graphs into grids of asymptotically optimal dimension](https://arxiv.org/abs/2407.19785). Proceedings of the American Mathematical Society (2026)
-5. With Jie-Xiang Zhu. [Counting degree-constrained orientations](https://arxiv.org/abs/2504.12693). Discrete Mathematics (2026)
-6. With George Brooks, Fadekemi Osaye, Anna Schenfisch and Zhiyu Wang. [Outerplanar graphs with positive Lin-Lu-Yau curvature](https://arxiv.org/abs/2403.04110). Journal of Combinatorics (2025)
-7. With Anton Bernshteyn. [Large-scale geometry of Borel graphs of polynomial growth](https://arxiv.org/abs/2302.04727). Advances in Mathematics (2025)
-8. With Jin-Yi Cai, Tianyu Liu, and Pinyan Lu. [Approximability of the Eight-Vertex Model](https://drops.dagstuhl.de/storage/00lipics/lipics-vol169-ccc2020/LIPIcs.CCC.2020.4/LIPIcs.CCC.2020.4.pdf). 35th Computational Complexity Conference (CCC 2020)
+8. With Yaobin Chen, Jiaxi Nie and Wentao Zhang. [Maximum in-general-position set in a random subset of $F_q^d$](https://arxiv.org/pdf/2509.06403). Preprint (submitted)
+7. With Anton Bernshteyn. [Borel Local Lemma: arbitrary random variables and limited exponential growth](http://arxiv.org/abs/2412.11571). Preprint (submitted)
+6. With Xingyu Zhu. [Revisiting asymptotic-type dimension bounds through combinatorial approaches](https://arxiv.org/abs/2411.16660). Preprint (submitted)
+5. With Anton Bernshteyn. [Embedding Borel graphs into grids of asymptotically optimal dimension](https://arxiv.org/abs/2407.19785). Proceedings of the American Mathematical Society (2026)
+4. With Jie-Xiang Zhu. [Counting degree-constrained orientations](https://arxiv.org/abs/2504.12693). Discrete Mathematics (2026)
+3. With George Brooks, Fadekemi Osaye, Anna Schenfisch and Zhiyu Wang. [Outerplanar graphs with positive Lin-Lu-Yau curvature](https://arxiv.org/abs/2403.04110). Journal of Combinatorics (2025)
+2. With Anton Bernshteyn. [Large-scale geometry of Borel graphs of polynomial growth](https://arxiv.org/abs/2302.04727). Advances in Mathematics (2025)
+1. With Jin-Yi Cai, Tianyu Liu, and Pinyan Lu. [Approximability of the Eight-Vertex Model](https://drops.dagstuhl.de/storage/00lipics/lipics-vol169-ccc2020/LIPIcs.CCC.2020.4/LIPIcs.CCC.2020.4.pdf). 35th Computational Complexity Conference (CCC 2020)
 
 ## Invited Talks
 
