@@ -29,7 +29,7 @@ My main areas of research are combinatorics and descriptive set theory.
 6. With Jie-Xiang Zhu. [Counting degree-constrained orientations](https://arxiv.org/abs/2504.12693). Discrete Mathematics (2026)
 7. With George Brooks, Fadekemi Osaye, Anna Schenfisch and Zhiyu Wang. [Outerplanar graphs with positive Lin-Lu-Yau curvature](https://arxiv.org/abs/2403.04110). Journal of Combinatorics (2025)
 8. With Anton Bernshteyn. [Large-scale geometry of Borel graphs of polynomial growth](https://arxiv.org/abs/2302.04727). Advances in Mathematics (2025)
-9. With Jin-Yi Cai, Tianyu Liu, and Pinyan Lu. [Approximability of the Eight-Vertex Model](https://drops.dagstuhl.de/storage/00lipics/lipics-vol169-ccc2020/LIPIcs.CCC.2020.4/LIPIcs.CCC.2020.4.pdf). 35th Computational Complexity Conference (CCC 2020)
+9. With Jin-Yi Cai, Tianyu Liu, and Pinyan Lu. [Approximability of the eight-vertex model](https://drops.dagstuhl.de/storage/00lipics/lipics-vol169-ccc2020/LIPIcs.CCC.2020.4/LIPIcs.CCC.2020.4.pdf). 35th Computational Complexity Conference (CCC 2020)
 
 ## Invited Talks
 
