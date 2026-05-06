@@ -47,6 +47,8 @@ My main areas of research are combinatorics and descriptive set theory.
 
 * NUS Combinatorics & Graph Theory Seminar, online, Oct 2, 2024
 
+* Noncommutative Geometry Seminar, Fudan University, Shanghai, China, Sep 26, 2024
+
 * Combinatorics Seminar: Epsilon Series, Georgia Institute of Technology, Atlanta, GA, USA, Mar 8, 2024
 
 * Joint Mathematical Meeting, ASL Special Session on Descriptive Methods in Dynamics, Combinatorics, and Large-scale Geometry, San Francisco, CA, USA, Jan 4, 2024
