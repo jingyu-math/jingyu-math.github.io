@@ -12,7 +12,7 @@ My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
 
 ## Contact Me
 
-* Email: [jyu@fudan.edu.cn](mailto:jyu@fudan.edu.cn)
+* Email: [jyu AT fudan.edu.cn]
   
 * Office: Room 339, Shanghai Center for Mathematical Sciences, Fudan University, 2005 Songhu Road, Shanghai, China
 
