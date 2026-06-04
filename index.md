@@ -21,7 +21,7 @@ My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
 My main areas of research are combinatorics and descriptive set theory. 
 
 ## Papers and Preprints
-0.   Strong marker sets for arbitrary generating sets of $\Z^n$. Preprint
+0.   Strong marker sets for arbitrary generating sets of $\mathbb Z^n$. Preprint
 1.   With Junchi Zhang and Mingyang Zhou. [Submodular flows and extreme flows on measurable spaces](https://arxiv.org/abs/2606.01684). Preprint (submitted) 
 2.   With Junchi Zhang. [Hypergraph independence bounds: from maximum degree to average degree](https://arxiv.org/abs/2604.28046). Preprint (submitted)
 3.   With Xingyu Zhu. [Asymptotic-type dimension bounds through combinatorial approaches](https://arxiv.org/abs/2411.16660). Preprint (submitted)
