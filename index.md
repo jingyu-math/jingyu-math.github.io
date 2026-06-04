@@ -26,7 +26,7 @@ My main areas of research are combinatorics and descriptive set theory.
 2.   With Junchi Zhang. [Hypergraph independence bounds: from maximum degree to average degree](https://arxiv.org/abs/2604.28046). Preprint (submitted)
 3.   With Xingyu Zhu. [Asymptotic-type dimension bounds through combinatorial approaches](https://arxiv.org/abs/2411.16660). Preprint (submitted)
 4.   With Anton Bernshteyn. [Borel Local Lemma: arbitrary random variables and limited exponential growth](http://arxiv.org/abs/2412.11571). Journal of London Mathematical Society (to appear)
-5.   With Yaobin Chen, Jiaxi Nie and Wentao Zhang. [Maximum in-general-position set in a random subset of $F_q^d$](https://arxiv.org/pdf/2509.06403). Journal of Combinatorial Theory, Series B (2026)
+5.   With Yaobin Chen, Jiaxi Nie and Wentao Zhang. [Maximum in-general-position set in a random subset of $\mathbb F_q^d$](https://arxiv.org/pdf/2509.06403). Journal of Combinatorial Theory, Series B (2026)
 6.   With Anton Bernshteyn. [Embedding Borel graphs into grids of asymptotically optimal dimension](https://arxiv.org/abs/2407.19785). Proceedings of the American Mathematical Society (2026)
 7.   With Jie-Xiang Zhu. [Counting degree-constrained orientations](https://arxiv.org/abs/2504.12693). Discrete Mathematics (2026)
 8.   With George Brooks, Fadekemi Osaye, Anna Schenfisch and Zhiyu Wang. [Outerplanar graphs with positive Lin-Lu-Yau curvature](https://arxiv.org/abs/2403.04110). Journal of Combinatorics (2025)
