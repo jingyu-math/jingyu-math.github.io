@@ -21,7 +21,8 @@ My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
 My main areas of research are combinatorics and descriptive set theory. 
 
 ## Papers and Preprints
-1.  With Junchi Zhang. On independent sets in uncrowded uniform hypergraphs. Preprint. 
+1.   With Junchi Zhang. [On independent sets in uncrowded uniform hypergraphs](http://arxiv.org/abs/2606.18171
+). Preprint. 
 2.   [Strong marker sets for arbitrary generating sets of $\mathbb Z^n$](https://arxiv.org/abs/2606.06707). Preprint (submitted)
 3.   With Junchi Zhang and Mingyang Zhou. [Submodular flows and extreme flows on measurable spaces](https://arxiv.org/abs/2606.01684). Preprint (submitted) 
 4.   With Junchi Zhang. [Hypergraph independence bounds: from maximum degree to average degree](https://arxiv.org/abs/2604.28046). Preprint (submitted)
