@@ -21,6 +21,7 @@ My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
 My main areas of research are combinatorics and descriptive set theory. 
 
 ## Papers and Preprints
+0.   With Junchi Zhang. [The list coloring number of uncrowded hypergraphs]. Preprint
 1.   With Junchi Zhang. [On independent sets in uncrowded uniform hypergraphs](http://arxiv.org/abs/2606.18171
 ). Preprint. 
 2.   [Strong marker sets for arbitrary generating sets of $\mathbb Z^n$](https://arxiv.org/abs/2606.06707). Preprint (submitted)
