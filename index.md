@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-Hi! I am currently a postdoctoral researcher at [Shanghai Center for Mathematical Sciences](https://scms.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/). I am mentored by [Hehui Wu](https://scholar.google.com/citations?user=vGY9WiEAAAAJ&hl=en).
+Hi! I am currently a postdoctoral fellow at [Shanghai Center for Mathematical Sciences](https://scms.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/). I am mentored by [Hehui Wu](https://scholar.google.com/citations?user=vGY9WiEAAAAJ&hl=en).
 
 Before returning to my alma mater Fudan, I received my PhD degree in [Algorithms, Combinatorics, and Optimization (ACO)](https://aco.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/), where I was fortunate to be advised by [Anton Bernshteyn](https://bahtoh-math.github.io/). Here's my [Math Genealogy entry](https://genealogy.math.ndsu.nodak.edu/id.php?id=321109).
 
@@ -21,8 +21,8 @@ My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
 My main areas of research are combinatorics and descriptive set theory. 
 
 ## Preprints
-1.   With Junchi Zhang. [The list coloring number of uncrowded hypergraphs](https://arxiv.org/pdf/2607.05256). Preprint (Submitted)
-2.   With Junchi Zhang. [On independent sets in uncrowded uniform hypergraphs](http://arxiv.org/abs/2606.18171). Preprint (Submitted)
+1.   With Junchi Zhang. [The list coloring number of uncrowded hypergraphs](https://arxiv.org/pdf/2607.05256). Preprint (submitted)
+2.   With Junchi Zhang. [On independent sets in uncrowded uniform hypergraphs](http://arxiv.org/abs/2606.18171). Preprint (submitted)
 3.   [Strong marker sets for arbitrary generating sets of $\mathbb Z^n$](https://arxiv.org/abs/2606.06707). Preprint (submitted)
 4.   With Junchi Zhang and Mingyang Zhou. [Submodular flows and extreme flows on measurable spaces](https://arxiv.org/abs/2606.01684). Preprint (submitted) 
 5.   With Junchi Zhang. [Hypergraph independence bounds: from maximum degree to average degree](https://arxiv.org/abs/2604.28046). Preprint (submitted)
