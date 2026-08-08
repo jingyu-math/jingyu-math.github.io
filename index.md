@@ -21,7 +21,6 @@ My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
 My main areas of research are combinatorics and descriptive set theory. 
 
 ## Preprints
-0.   With Petr Naryshkin, Forte Shinko, Felix Weilacher. Hyperfiniteness of bounded-to-one actions of commutative monoids. In preparation. 
 1.   With Junchi Zhang. [The list coloring number of uncrowded hypergraphs](https://arxiv.org/pdf/2607.05256). Preprint (submitted)
 2.   With Junchi Zhang. [On independent sets in uncrowded uniform hypergraphs](http://arxiv.org/abs/2606.18171). Preprint (submitted)
 3.   [Strong marker sets for arbitrary generating sets of $\mathbb Z^n$](https://arxiv.org/abs/2606.06707). Preprint (submitted)
