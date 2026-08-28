@@ -16,9 +16,6 @@ My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
   
 * Office: Room 339, Shanghai Center for Mathematical Sciences, Fudan University, 2005 Songhu Road, Shanghai, China
 
-## Research Interest
-
-My main areas of research are combinatorics and descriptive set theory. 
 
 ## Preprints
 1.   With Xichao Shu, Junchi Zhang. [Infinitesimal finite forcibility and step kernels](https://arxiv.org/abs/2608.21992). Preprint (submitted)
