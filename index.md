@@ -18,14 +18,15 @@ My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
 
 
 ## Preprints
-1.   With Xichao Shu, Junchi Zhang. [Infinitesimal finite forcibility and step kernels](https://arxiv.org/abs/2608.21992). Preprint (submitted)
-2.   With Forte Shinko, Felix Weilacher. [Hyperfiniteness of bounded-to-one actions of commutative monoids](http://arxiv.org/abs/2608.18439). Preprint (submitted)
-3.   With Junchi Zhang. [The list coloring number of uncrowded hypergraphs](https://arxiv.org/pdf/2607.05256). Preprint (submitted)
-4.   With Junchi Zhang. [On independent sets in uncrowded uniform hypergraphs](http://arxiv.org/abs/2606.18171). Preprint (submitted)
-5.   [Strong marker sets for arbitrary generating sets of $\mathbb Z^n$](https://arxiv.org/abs/2606.06707). Preprint (submitted)
-6.   With Junchi Zhang and Mingyang Zhou. [Submodular flows and extreme flows on measurable spaces](https://arxiv.org/abs/2606.01684). Preprint (submitted) 
-7.   With Junchi Zhang. [Hypergraph independence bounds: from maximum degree to average degree](https://arxiv.org/abs/2604.28046). Preprint (submitted)
-8.   With Xingyu Zhu. [Asymptotic-type dimension bounds through combinatorial approaches](https://arxiv.org/abs/2411.16660). Preprint (submitted)
+1.   With Jie-Xiang Zhu. [The maximum number of shortest paths in graphs](https://arxiv.org/abs/2609.02334). Preprint (submitted)
+2.   With Xichao Shu, Junchi Zhang. [Infinitesimal finite forcibility and step kernels](https://arxiv.org/abs/2608.21992). Preprint (submitted)
+3.   With Forte Shinko, Felix Weilacher. [Hyperfiniteness of bounded-to-one actions of commutative monoids](http://arxiv.org/abs/2608.18439). Preprint (submitted)
+4.   With Junchi Zhang. [The list coloring number of uncrowded hypergraphs](https://arxiv.org/pdf/2607.05256). Preprint (submitted)
+5.   With Junchi Zhang. [On independent sets in uncrowded uniform hypergraphs](http://arxiv.org/abs/2606.18171). Preprint (submitted)
+6.   [Strong marker sets for arbitrary generating sets of $\mathbb Z^n$](https://arxiv.org/abs/2606.06707). Preprint (submitted)
+7.   With Junchi Zhang and Mingyang Zhou. [Submodular flows and extreme flows on measurable spaces](https://arxiv.org/abs/2606.01684). Preprint (submitted) 
+8.   With Junchi Zhang. [Hypergraph independence bounds: from maximum degree to average degree](https://arxiv.org/abs/2604.28046). Preprint (submitted)
+9.   With Xingyu Zhu. [Asymptotic-type dimension bounds through combinatorial approaches](https://arxiv.org/abs/2411.16660). Preprint (submitted)
 
 ## Publications
 1.   With Anton Bernshteyn. [Borel Local Lemma: arbitrary random variables and limited exponential growth](http://arxiv.org/abs/2412.11571). Journal of London Mathematical Society (2026)
