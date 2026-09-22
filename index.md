@@ -39,6 +39,10 @@ My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
 
 ## Invited Talks
 
+* (Upcoming) Very Informal Gathering of Logicians (VIG), UCLA, Los Angeles, USA, Feb. 12–14, 2027
+
+* (Upcoming) IASM Workshop on Descriptive Set Theory, Borel Dynamics and Borel Combinatorics, Hangzhou, China, Oct 25–30, 2026
+
 * Twelfth Workshop on Combinatorics and Graph Theory, Shanghai Jiao Tong University, Shanghai, China, May 5, 2026
 
 * Young Scholars Conference on Descriptive Set Theory, Sichuan University, Chengdu, China, Oct 25, 2025
