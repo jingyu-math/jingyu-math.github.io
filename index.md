@@ -61,7 +61,7 @@ My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
 
 * Combinatorics Seminar: Epsilon Series, Georgia Institute of Technology, Atlanta, GA, USA, Mar 8, 2024
 
-* Joint Mathematical Meeting, ASL Special Session on Descriptive Methods in Dynamics, Combinatorics, and Large-scale Geometry, San Francisco, CA, USA, Jan 4, 2024
+* Joint Mathematics Meeting, ASL Special Session on Descriptive Methods in Dynamics, Combinatorics, and Large-scale Geometry, San Francisco, CA, USA, Jan 4, 2024
 
 * McGill Descriptive Dynamics and Combinatorics Seminar, online, Dec 5, 2023
 
