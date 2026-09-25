@@ -20,7 +20,7 @@ My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
 ## Preprints
 1. With Jinmin Wang and Jingming Zhu. [Asymptotic dimension of commutative monoid actions](https://arxiv.org/pdf/2609.26954). Preprint (submitted)
 2. With Jie-Xiang Zhu. [The maximum number of shortest paths in graphs](https://arxiv.org/abs/2609.02334). Preprint (submitted)
-3. With Xichao Shu and Junchi Zhang. [Infinitesimal finite forcibility and step kernels](https://arxiv.org/abs/2608.21992). Preprint (submitted
+3. With Xichao Shu and Junchi Zhang. [Infinitesimal finite forcibility and step kernels](https://arxiv.org/abs/2608.21992). Preprint (submitted)
 4. With Forte Shinko and Felix Weilacher. [Hyperfiniteness of bounded-to-one actions of commutative monoids](http://arxiv.org/abs/2608.18439). Preprint (submitted)
 5. With Junchi Zhang. [The list coloring number of uncrowded hypergraphs](https://arxiv.org/pdf/2607.05256). Preprint (submitted)
 6. With Junchi Zhang. [On independent sets in uncrowded uniform hypergraphs](http://arxiv.org/abs/2606.18171). Preprint (submitted)
