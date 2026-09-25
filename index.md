@@ -25,7 +25,7 @@ My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
 5.   With Junchi Zhang. [The list coloring number of uncrowded hypergraphs](https://arxiv.org/pdf/2607.05256). Preprint (submitted)
 6.   With Junchi Zhang. [On independent sets in uncrowded uniform hypergraphs](http://arxiv.org/abs/2606.18171). Preprint (submitted)
 7.   [Strong marker sets for arbitrary generating sets of $\mathbb Z^n$](https://arxiv.org/abs/2606.06707). Preprint (submitted)
-9.   With Junchi Zhang and Mingyang Zhou. [Submodular flows and extreme flows on measurable spaces](https://arxiv.org/abs/2606.01684). Preprint (submitted) 
+8.   With Junchi Zhang and Mingyang Zhou. [Submodular flows and extreme flows on measurable spaces](https://arxiv.org/abs/2606.01684). Preprint (submitted) 
 9.   With Junchi Zhang. [Hypergraph independence bounds: from maximum degree to average degree](https://arxiv.org/abs/2604.28046). Preprint (submitted)
 10.   With Xingyu Zhu. [Asymptotic-type dimension bounds through combinatorial approaches](https://arxiv.org/abs/2411.16660). Preprint (submitted)
 
