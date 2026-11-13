@@ -43,6 +43,8 @@ My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
 ## Invited Talks
 
 * (Upcoming) Very Informal Gathering of Logicians (VIG), UCLA, Los Angeles, USA, Feb. 12–14, 2027
+  
+* 2026 Suzhou Graph Theory Workshop, Suzhou, China, Nov 13-16, 2026
 
 * IASM-BIRS Workshop on Descriptive Set Theory, Borel Dynamics and Borel Combinatorics, Hangzhou, China, Oct 27, 2026
 
