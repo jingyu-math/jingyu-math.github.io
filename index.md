@@ -26,9 +26,9 @@ My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
 7.   With Jin-Yi Cai, Tianyu Liu, and Pinyan Lu. [Approximability of the eight-vertex model](https://drops.dagstuhl.de/storage/00lipics/lipics-vol169-ccc2020/LIPIcs.CCC.2020.4/LIPIcs.CCC.2020.4.pdf). 35th Computational Complexity Conference (CCC 2020)
 
 ## Preprints
-1. With Zhenkun Li and Jinmin Wang, Infinitely many convex polytopes with dihedral angles bounded above by $\pi/2+\delta$.
+1. With Zhenkun Li and Jinmin Wang, [Infinitely many convex polytopes with dihedral angles bounded above by $\pi/2+\delta$](https://arxiv.org/abs/2611.09021). Preprint.
 2. With Junchi Zhang. [Random independent sets in triangle-free and linear Berge-$C_4$-free hypergraphs](https://arxiv.org/abs/2610.06499). Preprint (submitted)
-3. With Jinmin Wang and Jingming Zhu. [Asymptotic dimension of commutative monoid actions](https://arxiv.org/pdf/2609.26954). Preprint (submitted)
+3. With Jinmin Wang and Jingming Zhu. [Asymptotic dimension of commutative monoid actions](https://arxiv.org/pdf/2609.26954). Preprint. 
 4. With Jie-Xiang Zhu. [The maximum number of shortest paths in graphs](https://arxiv.org/abs/2609.02334). Preprint (submitted)
 5. With Xichao Shu and Junchi Zhang. [Infinitesimal finite forcibility and step kernels](https://arxiv.org/abs/2608.21992). Preprint (submitted)
 6. With Forte Shinko and Felix Weilacher. [Hyperfiniteness of bounded-to-one actions of commutative monoids](http://arxiv.org/abs/2608.18439). Preprint (submitted)
