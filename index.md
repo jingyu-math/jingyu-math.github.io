@@ -23,7 +23,7 @@ My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
 3. With Jie-Xiang Zhu. [The maximum number of shortest paths in graphs](https://arxiv.org/abs/2609.02334). Preprint (submitted)
 4. With Xichao Shu and Junchi Zhang. [Infinitesimal finite forcibility and step kernels](https://arxiv.org/abs/2608.21992). Preprint (submitted)
 5. With Forte Shinko and Felix Weilacher. [Hyperfiniteness of bounded-to-one actions of commutative monoids](http://arxiv.org/abs/2608.18439). Preprint (submitted)
-6. With Junchi Zhang. [The list coloring number of uncrowded hypergraphs](https://arxiv.org/pdf/2607.05256). Preprint (submitted)
+6. With Junchi Zhang. [A polynomial criterion for DP-coloring of uncrowded hypergraphs](https://arxiv.org/pdf/2607.05256). Preprint (submitted)
 7. With Junchi Zhang. [On independent sets in uncrowded uniform hypergraphs](http://arxiv.org/abs/2606.18171). Preprint (submitted)
 8. [Strong marker sets for arbitrary generating sets of $\mathbb Z^n$](https://arxiv.org/abs/2606.06707). Preprint (submitted)
 9. With Junchi Zhang and Mingyang Zhou. [Submodular flows and extreme flows on measurable spaces](https://arxiv.org/abs/2606.01684). Preprint (submitted)
