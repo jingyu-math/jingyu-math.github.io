@@ -16,6 +16,10 @@ My hometown is [Dongtai](https://en.wikipedia.org/wiki/Dongtai).
   
 * Office: Room 339, Shanghai Center for Mathematical Sciences, Fudan University, 2005 Songhu Road, Shanghai, China
 
+## Research Interests
+
+Extremal and probabilistic combinatorics; descriptive combinatorics and large-scale geometry. 
+
 ## Publications
 1.   With Anton Bernshteyn. [Borel Local Lemma: arbitrary random variables and limited exponential growth](http://arxiv.org/abs/2412.11571). Journal of the London Mathematical Society (2026)
 2.   With Yaobin Chen, Jiaxi Nie, and Wentao Zhang. [Maximum in-general-position set in a random subset of $\mathbb F_q^d$](https://arxiv.org/pdf/2509.06403). Journal of Combinatorial Theory, Series B (2026)
